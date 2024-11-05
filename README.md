@@ -2,9 +2,10 @@
 
 - This repository provides an overview of various cloud computing projects that I have worked on, utilizing my skills in AWS, Azure, and other cloud technologies. 
 
-- To explore these projects in-depth, please visit my GitHub repository: [https://github.com/ncirlstudent](https://github.com/ncirlstudent). 
-
 - These projects demonstrate practical solutions involving cloud infrastructure, automation, and hybrid cloud integration, emphasizing real-world impact and technical efficiency.
+
+- To explore these projects in-depth, please visit my GitHub repository: 
+  [https://github.com/ncirlstudent](https://github.com/ncirlstudent). 
 
 ## Projects Overview
 
@@ -48,7 +49,7 @@
 - **Automation & DevOps**: Jenkins (CI/CD), Terraform, AWS CodePipeline, PowerShell scripting.
 - **Web Frameworks**: Django (Python), Red Hat OpenShift for containerization.
 - **Big Data & Machine Learning**: Hadoop, Apache Spark, AWS SageMaker, Random Forest, SVM, XGBoost.
-_ **Systems Integration**: On-premises and SaaS solution integration on AWS and Azure.
+- **Systems Integration**: On-premises and SaaS solution integration on AWS and Azure.
 - **Languages & Tools**: Python, PowerShell, Terraform, Jenkins, Ansible, VMware, Hyper-V, HTML, CSS, JavaScript.
 
 ## Contact Information
