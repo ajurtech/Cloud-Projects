@@ -41,12 +41,14 @@
 
 ## Technical Skills
 
+- **Solution Architecture**: Cloud and on-premises integration, multi-domain architecture alignment, SDLC management
 - **Cloud Services**:
   - **AWS**: EC2, S3, Lambda, CloudWatch, SageMaker, Elastic Beanstalk, Cloud9, SNS, SQS.
   - **Azure**: Azure Active Directory, Security Center, Virtual Machines, Load Balancing.
 - **Automation & DevOps**: Jenkins (CI/CD), Terraform, AWS CodePipeline, PowerShell scripting.
 - **Web Frameworks**: Django (Python), Red Hat OpenShift for containerization.
 - **Big Data & Machine Learning**: Hadoop, Apache Spark, AWS SageMaker, Random Forest, SVM, XGBoost.
+_ **Systems Integration**: On-premises and SaaS solution integration on AWS and Azure.
 - **Languages & Tools**: Python, PowerShell, Terraform, Jenkins, Ansible, VMware, Hyper-V, HTML, CSS, JavaScript.
 
 ## Contact Information
