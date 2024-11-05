@@ -1,6 +1,8 @@
 ## Introduction
 
-This repository provides an overview of various cloud computing projects that I have worked on, utilizing my skills in AWS, Azure and other cloud technologies. These projects demonstrate practical solutions involving cloud infrastructure, automation, and hybrid cloud integration, emphasizing real-world impact and technical efficiency. To explore these projects in-depth, please visit my GitHub repository: 
+This repository provides an overview of various cloud computing projects that I have worked on, utilizing my skills in AWS, Azure and other cloud technologies. These projects demonstrate practical solutions involving cloud infrastructure, automation, and hybrid cloud integration, emphasizing real-world impact and technical efficiency. 
+
+To explore these projects in-depth visit my GitHub repository: 
 [https://github.com/ncirlstudent](https://github.com/ncirlstudent). 
 
 ## Projects Overview
